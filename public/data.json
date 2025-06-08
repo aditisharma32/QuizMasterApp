@@ -1,0 +1,962 @@
+[
+  {
+    "question": "Which device is required for the Internet connection?",
+    "option1": "Modem",
+    "option2": "Router",
+    "option3": "LAN Cable",
+    "option4": "Pen Drive",
+    "ans": 1
+  },
+  {
+    "question": "Which continent has the highest number of countries?",
+    "option1": "Asia",
+    "option2": "Europe",
+    "option3": "North America",
+    "option4": "Africa",
+    "ans": 4
+  },
+  {
+    "question": "Junk e-mail is also called?",
+    "option1": "Spam",
+    "option2": "Fake",
+    "option3": "Archived",
+    "option4": "Bin",
+    "ans": 1
+  },
+  {
+    "question": "A computer cannot BOOT if it does not have the?",
+    "option1": "Application Software",
+    "option2": "Internet",
+    "option3": "Operating System",
+    "option4": "Mouse",
+    "ans": 3
+  },
+  {
+    "question": "First page of Website is termed as?",
+    "option1": "Index Page",
+    "option2": "Homepage",
+    "option3": "Sitemap",
+    "option4": "Pen Drive",
+    "ans": 2
+  },
+  {
+    "question": "Who invented the World Wide Web (WWW)?",
+    "option1": "Tim Berners-Lee",
+    "option2": "Bill Gates",
+    "option3": "Steve Jobs",
+    "option4": "Mark Zuckerberg",
+    "ans": 1
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "option1": "Sahara Desert",
+    "option2": "Arabian Desert",
+    "option3": "Gobi Desert",
+    "option4": "Antarctic Polar Desert",
+    "ans": 4
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "option1": "Au",
+    "option2": "Ag",
+    "option3": "Fe",
+    "option4": "Pb",
+    "ans": 1
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "option1": "Jupiter",
+    "option2": "Mars",
+    "option3": "Venus",
+    "option4": "Saturn",
+    "ans": 2
+  },
+  {
+    "question": "The 'brain' of the computer is the?",
+    "option1": "Monitor",
+    "option2": "Keyboard",
+    "option3": "CPU",
+    "option4": "Printer",
+    "ans": 3
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "option1": "Beijing",
+    "option2": "Seoul",
+    "option3": "Tokyo",
+    "option4": "Bangkok",
+    "ans": 3
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Carbon Dioxide",
+    "option3": "Nitrogen",
+    "option4": "Argon",
+    "ans": 3
+  },
+  {
+    "question": "What is the study of plants called?",
+    "option1": "Zoology",
+    "option2": "Botany",
+    "option3": "Geology",
+    "option4": "Astronomy",
+    "ans": 2
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "option1": "Speaker",
+    "option2": "Monitor",
+    "option3": "Mouse",
+    "option4": "Printer",
+    "ans": 3
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "option1": "Atlantic Ocean",
+    "option2": "Indian Ocean",
+    "option3": "Arctic Ocean",
+    "option4": "Pacific Ocean",
+    "ans": 4
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "option1": "0°C",
+    "option2": "50°C",
+    "option3": "100°C",
+    "option4": "212°C",
+    "ans": 3
+  },
+  {
+    "question": "Which famous scientist developed the theory of relativity?",
+    "option1": "Isaac Newton",
+    "option2": "Galileo Galilei",
+    "option3": "Albert Einstein",
+    "option4": "Marie Curie",
+    "ans": 3
+  },
+  {
+    "question": "What does RAM stand for?",
+    "option1": "Read Access Memory",
+    "option2": "Random Access Memory",
+    "option3": "Read Only Memory",
+    "option4": "Run After Memory",
+    "ans": 2
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "option1": "China",
+    "option2": "South Korea",
+    "option3": "Japan",
+    "option4": "Thailand",
+    "ans": 3
+  },
+  {
+    "question": "What is the nearest star to Earth?",
+    "option1": "Proxima Centauri",
+    "option2": "Alpha Centauri",
+    "option3": "The Sun",
+    "option4": "Sirius",
+    "ans": 3
+  },
+  {
+    "question": "Which organ pumps blood throughout the human body?",
+    "option1": "Lungs",
+    "option2": "Liver",
+    "option3": "Heart",
+    "option4": "Kidney",
+    "ans": 3
+  },
+  {
+    "question": "In computing, what does URL stand for?",
+    "option1": "Universal Resource Locator",
+    "option2": "Uniform Resource Locator",
+    "option3": "Unified Resource Link",
+    "option4": "Unique Reference Link",
+    "ans": 2
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "option1": "Amazon River",
+    "option2": "Yangtze River",
+    "option3": "Nile River",
+    "option4": "Mississippi River",
+    "ans": 3
+  },
+  {
+    "question": "What is the primary gas responsible for the Earth's greenhouse effect?",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon Dioxide",
+    "option4": "Methane",
+    "ans": 3
+  },
+  {
+    "question": "Which of these is a non-renewable energy source?",
+    "option1": "Solar",
+    "option2": "Wind",
+    "option3": "Coal",
+    "option4": "Hydroelectric",
+    "ans": 3
+  },
+  {
+    "question": "What does HTML stand for?",
+    "option1": "HyperText Markup Language",
+    "option2": "HighText Machine Language",
+    "option3": "Hyperlink and Text Markup Language",
+    "option4": "Home Tool Markup Language",
+    "ans": 1
+  },
+  {
+    "question": "Mount Everest is located in which mountain range?",
+    "option1": "Andes",
+    "option2": "Rockies",
+    "option3": "Himalayas",
+    "option4": "Alps",
+    "ans": 3
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "option1": "Propane",
+    "option2": "Butane",
+    "option3": "Methane",
+    "option4": "Ethane",
+    "ans": 3
+  },
+  {
+    "question": "Which vitamin is synthesized in the skin in the presence of sunlight?",
+    "option1": "Vitamin A",
+    "option2": "Vitamin C",
+    "option3": "Vitamin D",
+    "option4": "Vitamin K",
+    "ans": 3
+  },
+  {
+    "question": "What is the full form of CPU?",
+    "option1": "Central Processing Unit",
+    "option2": "Central Program Unit",
+    "option3": "Computer Personal Unit",
+    "option4": "Central Power Unit",
+    "ans": 1
+  },
+  {
+    "question": "Which animal is known as the 'Ship of the Desert'?",
+    "option1": "Camel",
+    "option2": "Horse",
+    "option3": "Elephant",
+    "option4": "Zebra",
+    "ans": 1
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "option1": "Gold",
+    "option2": "Iron",
+    "option3": "Diamond",
+    "option4": "Quartz",
+    "ans": 3
+  },
+  {
+    "question": "Which scientist proposed the laws of motion?",
+    "option1": "Albert Einstein",
+    "option2": "Isaac Newton",
+    "option3": "Stephen Hawking",
+    "option4": "Galileo Galilei",
+    "ans": 2
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "option1": "HyperText Transfer Protocol",
+    "option2": "HyperText Transmission Process",
+    "option3": "High-speed Text Transfer Protocol",
+    "option4": "HyperTool Transfer Program",
+    "ans": 1
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "option1": "Sydney",
+    "option2": "Melbourne",
+    "option3": "Canberra",
+    "option4": "Perth",
+    "ans": 3
+  },
+  {
+    "question": "Which part of the cell is responsible for generating energy through cellular respiration?",
+    "option1": "Nucleus",
+    "option2": "Mitochondria",
+    "option3": "Ribosome",
+    "option4": "Cytoplasm",
+    "ans": 2
+  },
+  {
+    "question": "What is the standard unit of frequency?",
+    "option1": "Ampere",
+    "option2": "Volt",
+    "option3": "Hertz",
+    "option4": "Ohm",
+    "ans": 3
+  },
+  {
+    "question": "Which of the following is a search engine?",
+    "option1": "Facebook",
+    "option2": "Twitter",
+    "option3": "Google",
+    "option4": "Instagram",
+    "ans": 3
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "option1": "Euro",
+    "option2": "Dollar",
+    "option3": "Pound Sterling",
+    "option4": "Yen",
+    "ans": 3
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon Dioxide",
+    "option4": "Hydrogen",
+    "ans": 3
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "option1": "Respiration",
+    "option2": "Transpiration",
+    "option3": "Photosynthesis",
+    "option4": "Germination",
+    "ans": 3
+  },
+  {
+    "question": "Which of these is volatile memory?",
+    "option1": "ROM",
+    "option2": "Hard Disk",
+    "option3": "RAM",
+    "option4": "SSD",
+    "ans": 3
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "option1": "Vincent van Gogh",
+    "option2": "Pablo Picasso",
+    "option3": "Leonardo da Vinci",
+    "option4": "Claude Monet",
+    "ans": 3
+  },
+  {
+    "question": "What is the largest land animal?",
+    "option1": "Giraffe",
+    "option2": "African Elephant",
+    "option3": "Rhinoceros",
+    "option4": "Hippopotamus",
+    "ans": 2
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "option1": "CO2",
+    "option2": "H2O",
+    "option3": "NaCl",
+    "option4": "O2",
+    "ans": 2
+  },
+  {
+    "question": "Which input device is used to enter text and numbers into a computer?",
+    "option1": "Monitor",
+    "option2": "Keyboard",
+    "option3": "Speaker",
+    "option4": "Printer",
+    "ans": 2
+  },
+  {
+    "question": "What is the name of the galaxy our solar system is in?",
+    "option1": "Andromeda Galaxy",
+    "option2": "Triangulum Galaxy",
+    "option3": "Milky Way Galaxy",
+    "option4": "Whirlpool Galaxy",
+    "ans": 3
+  },
+  {
+    "question": "What is the pH value of pure water?",
+    "option1": "0",
+    "option2": "7",
+    "option3": "14",
+    "option4": "Above 7",
+    "ans": 2
+  },
+  {
+    "question": "Which of these is a programming language?",
+    "option1": "HTML",
+    "option2": "CSS",
+    "option3": "Python",
+    "option4": "XML",
+    "ans": 3
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "option1": "Toronto",
+    "option2": "Vancouver",
+    "option3": "Ottawa",
+    "option4": "Montreal",
+    "ans": 3
+  },
+  {
+    "question": "Which force keeps planets in orbit around the Sun?",
+    "option1": "Magnetism",
+    "option2": "Electromagnetism",
+    "option3": "Gravity",
+    "option4": "Nuclear Force",
+    "ans": 3
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "option1": "Femur",
+    "option2": "Stapes (in the ear)",
+    "option3": "Patella",
+    "option4": "Humerus",
+    "ans": 2
+  },
+  {
+    "question": "What does WWW stand for?",
+    "option1": "World Wide Web",
+    "option2": "World Web Wide",
+    "option3": "Web World Wide",
+    "option4": "Wide World Web",
+    "ans": 1
+  },
+  {
+    "question": "Which famous landmark is located in Paris, France?",
+    "option1": "Statue of Liberty",
+    "option2": "Colosseum",
+    "option3": "Eiffel Tower",
+    "option4": "Big Ben",
+    "ans": 3
+  },
+  {
+    "question": "What is the primary function of red blood cells?",
+    "option1": "Fight infection",
+    "option2": "Clot blood",
+    "option3": "Carry oxygen",
+    "option4": "Produce antibodies",
+    "ans": 3
+  },
+  {
+    "question": "What is the process of heating a liquid to kill bacteria?",
+    "option1": "Distillation",
+    "option2": "Filtration",
+    "option3": "Pasteurization",
+    "option4": "Evaporation",
+    "ans": 3
+  },
+  {
+    "question": "Which of these is an output device?",
+    "option1": "Microphone",
+    "option2": "Scanner",
+    "option3": "Printer",
+    "option4": "Joystick",
+    "ans": 3
+  },
+  {
+    "question": "Who was the first person to step on the moon?",
+    "option1": "Buzz Aldrin",
+    "option2": "Yuri Gagarin",
+    "option3": "Neil Armstrong",
+    "option4": "Michael Collins",
+    "ans": 3
+  },
+  {
+    "question": "What is the chemical name for common salt?",
+    "option1": "Potassium Chloride",
+    "option2": "Sodium Chloride",
+    "option3": "Calcium Carbonate",
+    "option4": "Magnesium Sulfate",
+    "ans": 2
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "option1": "Thermometer",
+    "option2": "Anemometer",
+    "option3": "Barometer",
+    "option4": "Hygrometer",
+    "ans": 3
+  },
+  {
+    "question": "What does CPU stand for?",
+    "option1": "Control Processing Unit",
+    "option2": "Central Performance Unit",
+    "option3": "Central Processing Unit",
+    "option4": "Computer Processing Utility",
+    "ans": 3
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "option1": "Germany",
+    "option2": "France",
+    "option3": "United Kingdom",
+    "option4": "Spain",
+    "ans": 2
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "option1": "Heart",
+    "option2": "Brain",
+    "option3": "Skin",
+    "option4": "Liver",
+    "ans": 3
+  },
+  {
+    "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+    "option1": "Troposphere",
+    "option2": "Stratosphere",
+    "option3": "Mesosphere",
+    "option4": "Thermosphere",
+    "ans": 2
+  },
+  {
+    "question": "Which company developed the Android operating system?",
+    "option1": "Apple",
+    "option2": "Microsoft",
+    "option3": "Google",
+    "option4": "Samsung",
+    "ans": 3
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "option1": "Venice",
+    "option2": "Milan",
+    "option3": "Rome",
+    "option4": "Florence",
+    "ans": 3
+  },
+  {
+    "question": "What is the process of a liquid turning into a gas called?",
+    "option1": "Condensation",
+    "option2": "Melting",
+    "option3": "Evaporation",
+    "option4": "Freezing",
+    "ans": 3
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "option1": "Helium",
+    "option2": "Oxygen",
+    "option3": "Hydrogen",
+    "option4": "Carbon",
+    "ans": 3
+  },
+  {
+    "question": "What does USB stand for?",
+    "option1": "Universal Serial Bus",
+    "option2": "Unique Standard Bus",
+    "option3": "United Serial Board",
+    "option4": "Universal System Board",
+    "ans": 1
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "option1": "Indonesia",
+    "option2": "Philippines",
+    "option3": "Australia",
+    "option4": "New Zealand",
+    "ans": 3
+  },
+  {
+    "question": "Which sense organ is responsible for hearing?",
+    "option1": "Eye",
+    "option2": "Nose",
+    "option3": "Ear",
+    "option4": "Tongue",
+    "ans": 3
+  },
+  {
+    "question": "What is the speed of light in a vacuum (approximately)?",
+    "option1": "300,000 km/s",
+    "option2": "150,000 km/s",
+    "option3": "30,000 km/s",
+    "option4": "3,000,000 km/s",
+    "ans": 1
+  },
+  {
+    "question": "Which of these is a common web browser?",
+    "option1": "Microsoft Word",
+    "option2": "Adobe Photoshop",
+    "option3": "Google Chrome",
+    "option4": "VLC Media Player",
+    "ans": 3
+  },
+  {
+    "question": "Which ancient civilization built the pyramids?",
+    "option1": "Roman",
+    "option2": "Greek",
+    "option3": "Egyptian",
+    "option4": "Incan",
+    "ans": 3
+  },
+  {
+    "question": "What is the common name for Sodium Bicarbonate?",
+    "option1": "Washing Soda",
+    "option2": "Baking Soda",
+    "option3": "Bleaching Powder",
+    "option4": "Saltpeter",
+    "ans": 2
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "option1": "Mars",
+    "option2": "Venus",
+    "option3": "Mercury",
+    "option4": "Jupiter",
+    "ans": 2
+  },
+  {
+    "question": "What does OS stand for in computing?",
+    "option1": "Open Source",
+    "option2": "Operating System",
+    "option3": "Optical Storage",
+    "option4": "Output System",
+    "ans": 2
+  },
+  {
+    "question": "The Great Wall of China is visible from space. True or False?",
+    "option1": "True",
+    "option2": "False",
+    "option3": "Only partially",
+    "option4": "Depends on the weather",
+    "ans": 2
+  },
+  {
+    "question": "What is the smallest unit of life?",
+    "option1": "Tissue",
+    "option2": "Organ",
+    "option3": "Cell",
+    "option4": "Molecule",
+    "ans": 3
+  },
+  {
+    "question": "Which gas gives soda its fizziness?",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon Dioxide",
+    "option4": "Hydrogen",
+    "ans": 3
+  },
+  {
+    "question": "What is a program that allows you to surf the Internet called?",
+    "option1": "Operating System",
+    "option2": "Web Browser",
+    "option3": "Antivirus",
+    "option4": "Word Processor",
+    "ans": 2
+  },
+  {
+    "question": "Which country is the largest in terms of land area?",
+    "option1": "China",
+    "option2": "USA",
+    "option3": "Canada",
+    "option4": "Russia",
+    "ans": 4
+  },
+  {
+    "question": "What is the main component of bones?",
+    "option1": "Iron",
+    "option2": "Calcium",
+    "option3": "Sodium",
+    "option4": "Potassium",
+    "ans": 2
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "option1": "Volt",
+    "option2": "Ohm",
+    "option3": "Ampere",
+    "option4": "Watt",
+    "ans": 3
+  },
+  {
+    "question": "What does GPS stand for?",
+    "option1": "Global Positioning System",
+    "option2": "General Positioning System",
+    "option3": "Global Public System",
+    "option4": "Geographical Positioning System",
+    "ans": 1
+  },
+  {
+    "question": "Which ocean is the deepest?",
+    "option1": "Atlantic Ocean",
+    "option2": "Indian Ocean",
+    "option3": "Pacific Ocean",
+    "option4": "Arctic Ocean",
+    "ans": 3
+  },
+  {
+    "question": "What is the process of converting light energy into chemical energy by plants?",
+    "option1": "Respiration",
+    "option2": "Transpiration",
+    "option3": "Photosynthesis",
+    "option4": "Fermentation",
+    "ans": 3
+  },
+  {
+    "question": "Which element is essential for human blood clotting?",
+    "option1": "Iron",
+    "option2": "Zinc",
+    "option3": "Calcium",
+    "option4": "Magnesium",
+    "ans": 3
+  },
+  {
+    "question": "What is a Firewall in a computer network?",
+    "option1": "A type of virus",
+    "option2": "A security system that controls incoming and outgoing network traffic",
+    "option3": "A computer game",
+    "option4": "A type of cable",
+    "ans": 2
+  },
+  {
+    "question": "Which city is known as the 'Silicon Valley of India'?",
+    "option1": "Mumbai",
+    "option2": "Chennai",
+    "option3": "Bengaluru",
+    "option4": "Hyderabad",
+    "ans": 3
+  },
+  {
+    "question": "What is the longest river in Asia?",
+    "option1": "Ganges River",
+    "option2": "Yellow River",
+    "option3": "Yangtze River",
+    "option4": "Mekong River",
+    "ans": 3
+  },
+  {
+    "question": "Which disease is caused by a deficiency of Vitamin C?",
+    "option1": "Rickets",
+    "option2": "Night Blindness",
+    "option3": "Scurvy",
+    "option4": "Beriberi",
+    "ans": 3
+  },
+  {
+    "question": "What is the common term for a computer chip?",
+    "option1": "Transistor",
+    "option2": "Microprocessor",
+    "option3": "Capacitor",
+    "option4": "Resistor",
+    "ans": 2
+  },
+  {
+    "question": "Which country is famous for its fjords?",
+    "option1": "Sweden",
+    "option2": "Finland",
+    "option3": "Norway",
+    "option4": "Denmark",
+    "ans": 3
+  },
+  {
+    "question": "What is the primary function of the stomach in digestion?",
+    "option1": "Absorb nutrients",
+    "option2": "Store bile",
+    "option3": "Break down food with acid and enzymes",
+    "option4": "Produce insulin",
+    "ans": 3
+  },
+  {
+    "question": "What is the unit of power?",
+    "option1": "Joule",
+    "option2": "Watt",
+    "option3": "Newton",
+    "option4": "Pascal",
+    "ans": 2
+  },
+  {
+    "question": "What does SSD stand for?",
+    "option1": "Solid State Drive",
+    "option2": "Super Speed Disk",
+    "option3": "Secure Storage Device",
+    "option4": "Software System Drive",
+    "ans": 1
+  },
+  {
+    "question": "Which city hosted the 2020 (held in 2021) Summer Olympics?",
+    "option1": "London",
+    "option2": "Rio de Janeiro",
+    "option3": "Tokyo",
+    "option4": "Paris",
+    "ans": 3
+  },
+  {
+    "question": "Which blood group is considered the universal donor?",
+    "option1": "A+",
+    "option2": "B-",
+    "option3": "AB+",
+    "option4": "O-",
+    "ans": 4
+  },
+  {
+    "question": "What is the approximate percentage of nitrogen in Earth's atmosphere?",
+    "option1": "21%",
+    "option2": "78%",
+    "option3": "0.04%",
+    "option4": "1%",
+    "ans": 2
+  },
+  {
+    "question": "What is a 'byte' in computer terms?",
+    "option1": "A single bit",
+    "option2": "Eight bits",
+    "option3": "Four bits",
+    "option4": "Sixteen bits",
+    "ans": 2
+  },
+  {
+    "question": "Which country is famous for the Pyramids of Giza?",
+    "option1": "Mexico",
+    "option2": "Peru",
+    "option3": "Egypt",
+    "option4": "India",
+    "ans": 3
+  },
+  {
+    "question": "What is the process of a solid turning directly into a gas without becoming a liquid?",
+    "option1": "Melting",
+    "option2": "Evaporation",
+    "option3": "Sublimation",
+    "option4": "Condensation",
+    "ans": 3
+  },
+  {
+    "question": "Which gas is vital for respiration in humans?",
+    "option1": "Carbon Dioxide",
+    "option2": "Nitrogen",
+    "option3": "Oxygen",
+    "option4": "Methane",
+    "ans": 3
+  },
+  {
+    "question": "What does GUI stand for?",
+    "option1": "General User Interface",
+    "option2": "Graphical User Interface",
+    "option3": "Global User Interaction",
+    "option4": "Graphic Utility Indicator",
+    "ans": 2
+  },
+  {
+    "question": "What is the largest living species of lizard?",
+    "option1": "Gecko",
+    "option2": "Komodo Dragon",
+    "option3": "Chameleon",
+    "option4": "Iguana",
+    "ans": 2
+  },
+  {
+    "question": "Which type of lens is used to correct myopia (nearsightedness)?",
+    "option1": "Convex lens",
+    "option2": "Concave lens",
+    "option3": "Cylindrical lens",
+    "option4": "Bifocal lens",
+    "ans": 2
+  },
+  {
+    "question": "What is the primary purpose of a database?",
+    "option1": "To store and retrieve data efficiently",
+    "option2": "To browse the internet",
+    "option3": "To create documents",
+    "option4": "To edit photos",
+    "ans": 1
+  },
+  {
+    "question": "Which animal is the largest mammal on Earth?",
+    "option1": "African Elephant",
+    "option2": "Blue Whale",
+    "option3": "Polar Bear",
+    "option4": "Giraffe",
+    "ans": 2
+  },
+  {
+    "question": "Which type of radiation is used in microwave ovens?",
+    "option1": "X-rays",
+    "option2": "Infrared",
+    "option3": "Microwaves",
+    "option4": "Ultraviolet",
+    "ans": 3
+  },
+  {
+    "question": "What does ISP stand for?",
+    "option1": "Internet Service Provider",
+    "option2": "Internal System Protocol",
+    "option3": "Internet Security Program",
+    "option4": "Information Service Point",
+    "ans": 1
+  },
+  {
+    "question": "Which country is famous for the Big Ben clock tower?",
+    "option1": "USA",
+    "option2": "France",
+    "option3": "United Kingdom",
+    "option4": "Germany",
+    "ans": 3
+  },
+  {
+    "question": "Which part of the eye is responsible for color vision?",
+    "option1": "Cornea",
+    "option2": "Lens",
+    "option3": "Rods",
+    "option4": "Cones",
+    "ans": 4
+  },
+  {
+    "question": "What is the main function of the cerebellum in the human brain?",
+    "option1": "Thought and language",
+    "option2": "Balance and coordination",
+    "option3": "Regulating heart rate",
+    "option4": "Processing sensory information",
+    "ans": 2
+  },
+  {
+    "question": "What is a 'pixel' in digital imaging?",
+    "option1": "A type of lens",
+    "option2": "The smallest single unit of information in a digital image",
+    "option3": "A unit of memory",
+    "option4": "A programming language",
+    "ans": 2
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "option1": "Asia",
+    "option2": "Africa",
+    "option3": "South America",
+    "option4": "Antarctica",
+    "ans": 2
+  },
+  {
+    "question": "What is the SI unit of temperature?",
+    "option1": "Celsius",
+    "option2": "Fahrenheit",
+    "option3": "Kelvin",
+    "option4": "Rankine",
+    "ans": 3
+  },
+  {
+    "question": "Which gas do trees release into the atmosphere?",
+    "option1": "Carbon Dioxide",
+    "option2": "Nitrogen",
+    "option3": "Oxygen",
+    "option4": "Methane",
+    "ans": 3
+  },
+  {
+    "question": "What does VPN stand for?",
+    "option1": "Virtual Personal Network",
+    "option2": "Virtual Private Network",
+    "option3": "Verified Private Network",
+    "option4": "Visual Public Network",
+    "ans": 2
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "option1": "St. Petersburg",
+    "option2": "Kyiv",
+    "option3": "Moscow",
+    "option4": "Minsk",
+    "ans": 3
+  }
+]
